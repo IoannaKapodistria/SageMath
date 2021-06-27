@@ -1,2 +1,6 @@
 # SageMath
- Problems and solutions of Linear algebra/ numerical solution of ordinary differential equations/ polynomials and explicit functions/plots
+
+##Jypiter Notebook 
+
+Problems with their solutions.
+Linear algebra/ Numerical solution of ordinary differential equations/ Polynomials and explicit functions/Plots
