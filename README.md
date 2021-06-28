@@ -2,7 +2,7 @@
 
 ## Jupyter Notebook 
 
-Mathematical exercises along with their solutions using a Python-based language software.
+Mathematical exercises along with their solutions using a Python-based language software, SageMath.
 
 Topics: 
 * Linear algebra
